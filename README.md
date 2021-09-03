@@ -18,4 +18,4 @@ Basic Instructions of game:
 
 6. If the player touches the bouncing balls, the game ends and returns the number of attempts to throw the ball. 
 
-7. If the player wins, the game ends and returns the number of attempts to throw the ball. 
+7. If the player wins, the game ends and returns the number of attempts to throw the ball.  
