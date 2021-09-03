@@ -10,7 +10,7 @@ Basic Instructions of game:
 
 2. Every time the game is reset, the position of the goal is randomised to a certain extent which may increase the difficulty.
 
-3.The aim is to shoot the player's ball into the Goal which is identified with the red flag. 
+3. The aim is to shoot the player's ball into the Goal which is identified with the red flag. 
 
 4. However the player cannot touch the two other balls which are constantly moving horizonatally. This was created using a for loop. 
 
